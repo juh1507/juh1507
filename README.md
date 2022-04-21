@@ -1,12 +1,9 @@
-#ola meu nome e juliana
-#meu imail e de estudante
+# sobre mim
 
-
-- 👋 Hi, I’m @juh1507
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola meu nome e @juh1507
+- meu imail.com e estudante.alura@gamil.com.br
+- 👀 eu estou enteressada em aprendera pogramar novas linguas e eu 
+- estou aprendendo a pogramar recentimente a linguagem  javaScri e Scrath...
 
 <!---
 juh1507/juh1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
